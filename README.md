@@ -1,164 +1,69 @@
-<div align="center">
+# 🚀 About Me
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes gradient-animation {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
-        }
-        .container {
-          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          text-align: center;
-          height: 400px;
-          width: 800px;
-          background-color: #0D1117;
-          color: #CDD6F4;
-          border-radius: 15px;
-        }
-        .name {
-          font-size: 4em;
-          font-weight: 900;
-          letter-spacing: -2.5px;
-          background: linear-gradient(90deg, #00F6FF, #7289DA, #00F6FF);
-          background-size: 200% 200%;
-          -webkit-background-clip: text;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: gradient-animation 4s ease infinite;
-          margin: 0;
-          line-height: 1.2;
-        }
-        .title {
-          font-size: 1.75em;
-          font-weight: 500;
-          margin-top: 15px;
-          color: #BAC2DE;
-        }
-        .subtitle {
-          font-size: 1.2em;
-          font-weight: 300;
-          margin-top: 8px;
-          color: #A6ADC8;
-        }
-      </style>
-      <div class="container">
-        <h1 class="name">RONALD ANDREW D. CADAG</h1>
-        <p class="title">Digital Product Designer & Technologist</p>
-        <p class="subtitle">IT Student at Mapua University specializing in Human-Centered Systems</p>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-</div>
+I am a driven Information Technology student at Mapua University with a background in Computer Engineering. This unique journey has fueled my passion for the complete technology ecosystem—from hardware architecture to sophisticated software solutions. I thrive on using data analysis and a robust technical foundation to solve real-world challenges. My goal is to leverage my skills in software development, data analysis, and systems thinking to contribute to innovative projects in the tech industry.
 
 ---
 
-### **About Me**
+## 🔧 Technical Skills
 
-<p>
-  I'm a passionate and driven Information Technology student at <strong>Mapua University</strong>, building upon a foundational year in Computer Engineering. My focus is on the intersection of human-centered design and robust engineering, with the goal of creating data-informed digital systems that are both intuitive and powerful. I am actively seeking opportunities to apply my academic knowledge and project experience to solve real-world challenges.
-</p>
+My academic and project-based work has provided me with a strong foundation in the following areas:
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:andrewcadag2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+* **Programming & Web Development:** C++, HTML5, CSS3, JavaScript, Website Design & Creation
+* **Databases & Information Management:** MySQL, SQLite, Database Management Principles
+* **Core IT Concepts:** Data Structures & Algorithms, Operating Systems, Computer Networks (Fundamentals 1 & 2), Computer Architecture, Information Systems, Hardware Troubleshooting
+* **Developer & Design Tools:** Git, GitHub, Figma, Canva, Postman, Microsoft Office Suite
+* **Soft Skills:** Leadership, Project Management, Team Collaboration, Research & Data Analysis, Public Speaking, Critical Thinking
 
 ---
 
-### **🛠️ My Tech Stack**
+## 🔬 Research & Projects
 
-<div align="center">
-  <p>
-    <strong>Languages:</strong><br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </p>
-  <p>
-    <strong>Databases & Platforms:</strong><br>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </p>
-  <p>
-    <strong>Design & Prototyping:</strong><br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-  </p>
-</div>
+My curiosity extends to understanding the intersection of technology, data, and human behavior. These projects showcase my analytical and technical writing skills:
+
+* **A Comparative Study Between KDA of Losing Team and the Winning Team in Valorant:**
+    * Applied statistical analysis to in-game data to determine the correlation between performance metrics and match outcomes.
+* **The Effects of Google Chrome on Student Study Habits:**
+    * Conducted research to analyze how a primary technology tool impacts user productivity and academic performance.
+* **Analysis of Sleep Deprivation and Procrastination on Performance:**
+    * Investigated key behavioral factors that influence success, demonstrating an interest in data-driven human insights.
 
 ---
 
-### **💼 Featured Projects & Research**
+## 🏆 Leadership & Collaboration
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <a href="#" target="_blank">
-        <img src="https://placehold.co/400x400/0D1117/00F6FF?text=VALORANT+Analysis" width="100%" alt="Valorant KDA Analysis Project"/>
-      </a>
-    </td>
-    <td width="75%" valign="top">
-      <h4>A Comparative Study of KDA in Valorant</h4>
-      <p>
-        A quantitative analysis modeling the impact of in-game performance metrics (KDA, ADR) on match outcomes. This research involved statistical analysis of complex user behavior patterns to identify key indicators of player and team success.
-      </p>
-      <code>Data Analysis</code> <code>User Behavior</code> <code>Quantitative Research</code> <code>Statistics</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top">
-      <a href="#" target="_blank">
-        <img src="https://placehold.co/400x400/0D1117/00F6FF?text=CLI+Database" width="100%" alt="CLI Database App Project"/>
-      </a>
-    </td>
-    <td width="75%" valign="top">
-      <h4>[Concept] Command-Line Database App</h4>
-      <p>
-        A conceptual design and partial implementation of a C++ command-line application for student record management. This project applies principles from <strong>Information Management (ITS131)</strong> and advanced <strong>Data Structures (CSS130)</strong> to create an efficient, terminal-based data solution.
-      </p>
-      <code>C++</code> <code>Data Structures</code> <code>CLI</code> <code>System Design</code>
-    </td>
-  </tr>
-</table>
+* **President | Basketball Organization**
+    * Led team development initiatives and facilitated all organizational meetings.
+    * Successfully planned and executed major events, including a faculty vs. student match, honing skills in project management and communication.
+* **Secretary | Mathematics Society**
+    * Managed organizational logistics, including attendance tracking and activity coordination.
+    * Designed and assigned tailored group activities to enhance team engagement and leverage individual strengths.
 
 ---
 
-### **🎓 Academic & Core Competencies**
+## 🎓 Education
 
-My coursework at Mapua University is providing me with a comprehensive foundation in Information Technology. Below is a summary of my technical curriculum.
+* **Bachelor of Science in Information Technology** | Mapua University
+* **Senior High School, with Honors** | (Your Previous School)
 
-| Area of Study               | Course Codes & Titles                                                                                                                                                            |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming & Development** | `CSS121/L`: Computer Programming 1<br>`CSS122/L`: Computer Programming 2<br>`ITS121L`: Web Systems and Technologies 1<br>`CSS130`: Data Structures and Algorithms                  |
-| **Systems & Architecture** | `ITS112/L`: Computer Architecture and Organization<br>`ITS150/L`: Operating Systems<br>`ITS161L`: Fundamentals of Computer Networks 1<br>`ITS162L`: Fundamentals of Computer Networks 2 |
-| **Data & Information** | `ITS131/L`: Information Management<br>`ISS120`: Information Systems and Business Processes                                                                                        |
-| **Foundational Math & Sci** | `GED102`: Mathematics in the Modern World<br>`MATH159-2`: Math Analysis<br>`GED104`: Science, Technology, and Society                                                              |
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Andrew%20Cadag) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiidrew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andrew%20Cadag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewcadag2004@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Andrew-Cadag&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Andrew-Cadag&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Andrew-Cadag&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
-### **📊 GitHub Statistics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" alt="Andrew-Cadag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Andrew-Cadag's Top Languages" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=andrew-cadag&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Andrew-Cadag&color=00F6FF&style=for-the-badge" alt="Profile Visitor Counter"/>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Andrew-Cadag&icon=2&color=1)](https://visitcount.itsvg.in)
