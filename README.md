@@ -62,7 +62,7 @@ I enjoy exploring the intersection of technology, data, and human behavior.
 
 ### 🎓 Education
 
-* **Bachelor of Science in Information Technology** | Mapua University, Manila (_Expected Graduation Year_)
+* **Bachelor of Science in Information Technology** | Mapua University, Manila (_Expected Graduation: 2026_)
     * *Relevant Coursework: Data Structures & Algorithms, Web Systems, Information Management, Computer Networks, Object-Oriented Programming*
 * **Senior High School, with Honors** | _Your Previous School_
 
@@ -118,13 +118,31 @@ I'm always open to connecting with new people. Feel free to reach out to me!
 <details>
 <summary><b>📈 View My GitHub Stats & Trophies</b></summary>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Andrew's GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Andrew-Cadag&theme=tokyonight&hide_border=true" alt="Andrew's GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Andrew's Top Languages">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrew-Cadag&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Andrew's GitHub Trophies">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</p>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Andrew's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Andrew-Cadag&theme=tokyonight&hide_border=true" alt="Andrew's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Andrew's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Andrew-Cadag&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Andrew's GitHub Trophies" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+    </td>
+  </tr>
+</table>
+
 </details>
