@@ -18,12 +18,12 @@
           text-align: center;
           height: 400px;
           width: 800px;
-          background-color: #0D1117; /* Dark background for a modern feel */
-          color: #CDD6F4; /* Soft white for text */
+          background-color: #0D1117;
+          color: #CDD6F4;
           border-radius: 15px;
         }
         .name {
-          font-size: 4em; /* Slightly larger for more impact */
+          font-size: 4em;
           font-weight: 900;
           letter-spacing: -2.5px;
           background: linear-gradient(90deg, #00F6FF, #7289DA, #00F6FF);
@@ -37,7 +37,7 @@
         }
         .title {
           font-size: 1.75em;
-          font-weight: 500; /* Slightly bolder */
+          font-weight: 500;
           margin-top: 15px;
           color: #BAC2DE;
         }
@@ -56,7 +56,6 @@
     </div>
   </foreignObject>
 </svg>
-
 </div>
 
 ---
@@ -68,10 +67,10 @@
 </p>
 
 <div align="center">
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:andrewcadag2004@gmail.com">
@@ -156,13 +155,10 @@ My coursework at Mapua University is providing me with a comprehensive foundatio
 
 ### **📊 GitHub Statistics**
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" alt="Andrew-Cadag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" alt="Andrew-Cadag's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Andrew-Cadag's Top Languages" />
   <br>
-  
-<img src="https://github-profile-trophy.vercel.app/?username=andrew-cadag&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrew-cadag&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   <br>
-
-<img src="https://komarev.com/ghpvc/?username=Andrew-Cadag&color=00F6FF&style=for-the-badge" alt="Profile Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Andrew-Cadag&color=00F6FF&style=for-the-badge" alt="Profile Visitor Counter"/>
 </div>
