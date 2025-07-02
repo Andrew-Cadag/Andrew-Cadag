@@ -1,6 +1,6 @@
 <!--
 ///
-/// README v2.0 // Andrew-Cadag
+/// README v2.1 // Andrew-Cadag
 /// Aesthetic: Data-Driven Brutalism
 ///
 -->
@@ -20,7 +20,7 @@
 <p>
 Digital Product Designer & Technologist. I build data-informed, human-centered digital systems.
 <br/>
-<b>Core Disciplines:</b> UX/UI Engineering │ Data Visualization │ Front-End Development
+<b>Core Disciplines:</b> UX/UI Engineering │ Data Structures & Algorithms │ Systems Architecture
 </p>
 
 <!-- Add a status indicator -->
@@ -42,11 +42,12 @@ Digital Product Designer & Technologist. I build data-informed, human-centered d
 
 <div id="current-focus">
 <h2 align="center">./Current_Focus</h2>
+<p align="center">Integrating theoretical knowledge with practical application. Based on my current coursework:</p>
 <table width="100%">
 <tr align="center">
-<td width="33%"><b>EXECUTING</b><br/><code>Data Structures & Algorithms</code></td>
-<td width="33%"><b>BUILDING</b><br/><code>Interactive Web Applications</code></td>
-<td width="33%"><b>PROTOTYPING</b><br/><code>UI Motion & Microinteractions</code></td>
+<td width="33%"><b>EXECUTING</b><br/><code>Data Structures & Algorithms (CSS130)</code></td>
+<td width="33%"><b>ANALYZING</b><br/><code>Operating Systems & Networks (ITS150/161L)</code></td>
+<td width="33%"><b>BUILDING</b><br/><code>Web Tech & Database Systems (ITS121L/131)</code></td>
 </tr>
 </table>
 </div>
@@ -69,7 +70,7 @@ Digital Product Designer & Technologist. I build data-informed, human-centered d
 <code>Data Analysis</code> <code>User Behavior</code> <code>Quantitative Research</code>
 </td>
 </tr>
-<!-- Project 2: Chrome Study -->
+<!-- Project 2: Simple Web Server -->
 <tr>
 <td width="25%" valign="top">
 <a href="[LINK_TO_YOUR_REPO_OR_CASE_STUDY]">
@@ -77,9 +78,9 @@ Digital Product Designer & Technologist. I build data-informed, human-centered d
 </a>
 </td>
 <td width="75%" valign="top">
-<h3>Digital Tool Impact Study</h3>
-<p>An investigation into how a core digital tool (Google Chrome) shapes and influences student study habits and academic performance. This case study provided key insights into user interaction with technology in an academic context.</p>
-<code>UX Research</code> <code>Human-Computer Interaction</code> <code>Academic Performance</code>
+<h3>[Concept] Command-Line Database App</h3>
+<p>A concept for a simple command-line application for managing student records, built using C++ and demonstrating principles from Information Management (ITS131) and Data Structures (CSS130).</p>
+<code>C++</code> <code>Data Structures</code> <code>Information Management</code> <code>CLI</code>
 </td>
 </tr>
 </table>
@@ -92,11 +93,15 @@ Digital Product Designer & Technologist. I build data-informed, human-centered d
 <td width="50%" valign="top">
 <h2 align="center">./Toolkit</h2>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Visual Studio Code"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-00C4CC%3Fstyle%3Dfor-the-badge%26logo%3Dcanva%26logoColor%3Dwhite" alt="Canva"/></a>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL"/>
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Visual Studio Code"/>
 </p>
 </td>
 <td width="50%" valign="top">
