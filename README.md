@@ -1,305 +1,233 @@
- <div align="center">
+<div align="center">
 
-<!-- Custom SVG Banner -->
 
-<svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
 
-<foreignObject width="100%" height="100%">
+<img src="https://placehold.co/1280x400/0D1117/00F6FF?text=COMPILING..._ANDREW.CADAG" alt="Andrew Cadag Banner"/>
 
-<div xmlns="http://www.w3.org/1999/xhtml">
 
-<style>
 
-@keyframes gradient-animation {
+<h1>Hi there, I'm Andrew Cadag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-0% { background-position: 0% 50%; }
 
-50% { background-position: 100% 50%; }
-
-100% { background-position: 0% 50%; }
-
-}
-
-.container {
-
-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-
-display: flex;
-
-flex-direction: column;
-
-align-items: center;
-
-justify-content: center;
-
-text-align: center;
-
-height: 350px;
-
-width: 800px;
-
-background: #0D1117;
-
-color: #FFFFFF;
-
-border-radius: 10px;
-
-}
-
-.name {
-
-font-size: 3.5em;
-
-font-weight: 900;
-
-letter-spacing: -2px;
-
-background: linear-gradient(90deg, #00F6FF, #7289DA, #00F6FF);
-
-background-size: 200% 200%;
-
--webkit-background-clip: text;
-
-background-clip: text;
-
--webkit-text-fill-color: transparent;
-
-animation: gradient-animation 4s ease infinite;
-
-margin: 0;
-
-}
-
-.title {
-
-font-size: 1.5em;
-
-font-weight: 400;
-
-margin-top: 10px;
-
-color: #CDD6F4;
-
-}
-
-.subtitle {
-
-font-size: 1.1em;
-
-font-weight: 300;
-
-margin-top: 5px;
-
-color: #A6ADC8;
-
-}
-
-</style>
-
-<div class="container">
-
-<h1 class="name">RONALD ANDREW D. CADAG</h1>
-
-<p class="title">Digital Product Designer & Technologist</p>
-
-<p class="subtitle">Information Technology Student at Mapua University</p>
-
-</div>
-
-</div>
-
-</foreignObject>
-
-</svg>
-
-<h1>Hi there, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p>
 
-I'm a passionate and driven Information Technology student at <strong>Mapua University</strong>, building upon a foundational year in Computer Engineering. My focus is on the intersection of human-centered design and robust engineering, aiming to create data-informed digital systems that are both intuitive and powerful. I am actively seeking opportunities to apply my academic knowledge and project experience to solve real-world challenges.
+  I am a <strong>Digital Product Designer & Technologist</strong> specializing in the intersection of human-centered design and robust engineering. My focus is on building data-informed digital systems that are both intuitive and powerful.
 
 </p>
+
+
+
+<p>
+
+  <b>Core Competencies:</b> UX/UI Engineering │ Data Structures & Algorithms │ Systems Architecture
+
+</p>
+
+
+
+[![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00F6FF?style=for-the-badge)]()
+
+
 
 <div>
 
-<a href="https://www.google.com/search?q=https://your-portfolio-url.com" target="_blank">
+  <a href="" target="_blank">
 
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
 
-</a>
+  </a>
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
-</a>
+  </a>
 
-<a href="mailto:andrewcadag2004@gmail.com">
+  <a href="mailto:andrewcadag2004@gmail.com">
 
-<img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
-</a>
-
-</div>
+  </a>
 
 </div>
 
 
 
-<img src="https://www.google.com/search?q=https://em-content.zobj.net/source/microsoft-teams/363/graduation-cap_1f393.png" width=25/> Academic Journey & Core Curriculum
+</div>
 
-My coursework at Mapua University is providing me with a comprehensive foundation in Information Technology. Below is a summary of my technical curriculum.
 
-Area of Study
 
-Course Codes & Titles
+---
 
-Programming & Development
 
-CSS121/L: Computer Programming 1<br>CSS122/L: Computer Programming 2<br>ITS121L: Web Systems and Technologies 1<br>CSS130: Data Structures and Algorithms
 
-Systems & Architecture
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" width=25/> Current Focus
 
-ITS112/L: Computer Architecture and Organization<br>ITS150/L: Operating Systems<br>ITS161L: Fundamentals of Computer Networks 1<br>ITS162L: Fundamentals of Computer Networks 2
 
-Data & Information Management
 
-ITS131/L: Information Management<br>ISS120: Information Systems and Business Processes
+I am currently bridging theoretical knowledge with practical application through my coursework, focusing on:
 
-Foundational & General ED
 
-GED102: Mathematics in the Modern World<br>MATH159-2: Math Analysis<br>GED104: Science, Technology, and Society<br>... and other general education courses.
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/briefcase_1f4bc.png" width=25/> Featured Projects & Research
+| **EXECUTING** | **ANALYZING** | **BUILDING** |
+
+| -------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- |
+
+| `Data Structures & Algorithms (CSS130)`      | `Operating Systems & Networks (ITS150/161L)`       | `Web Tech & Database Systems (ITS121L/131)`              |
+
+
+
+---
+
+
+
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/briefcase_1f4bc.png" width=25/> Featured Projects
+
+
 
 <table>
 
-<tr>
+  <tr>
 
-<td width="25%" valign="top">
+    <td width="25%" valign="top">
 
-<a href="" target="_blank">
+      <a href="" target="_blank">
 
-<img src="https://placehold.co/400x400/0D1117/00F6FF?text=PROJECT_01" width="100%" alt="Project 1 Thumbnail"/>
+        <img src="https://placehold.co/400x400/0D1117/00F6FF?text=PROJECT_01" width="100%" alt="Project 1 Thumbnail"/>
 
-</a>
+      </a>
 
-</td>
+    </td>
 
-<td width="75%" valign="top">
+    <td width="75%" valign="top">
 
-<h3>A Comparative Study Between KDA of Losing Team and the Winning Team in Valorant</h3>
+      <h3>Valorant Player Analytics</h3>
 
-<p>
+      <p>
 
-A quantitative analysis modeling the impact of in-game performance metrics (KDA, ADR) on match outcomes. This project involved statistical analysis of complex user behavior patterns to identify key indicators of player success.
+        A quantitative analysis modeling the impact of in-game performance metrics (KDA, ADR) on match outcomes. This project involved statistical analysis of complex user behavior patterns to identify key indicators of player success.
 
-</p>
+      </p>
 
-<code>Data Analysis</code> <code>User Behavior</code> <code>Quantitative Research</code> <code>Statistics</code>
+      <code>Data Analysis</code> <code>User Behavior</code> <code>Quantitative Research</code> <code>Statistics</code>
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
-<td width="25%" valign="top">
+    <td width="25%" valign="top">
 
-<a href="" target="_blank">
+      <a href="" target="_blank">
 
-<img src="https://placehold.co/400x400/0D1117/00F6FF?text=PROJECT_02" width="100%" alt="Project 2 Thumbnail"/>
+        <img src="https://placehold.co/400x400/0D1117/00F6FF?text=PROJECT_02" width="100%" alt="Project 2 Thumbnail"/>
 
-</a>
+      </a>
 
-</td>
+    </td>
 
-<td width="75%" valign="top">
+    <td width="75%" valign="top">
 
-<h3>[Concept] Command-Line Database App</h3>
+      <h3>[Concept] Command-Line Database App</h3>
 
-<p>
+      <p>
 
-A conceptual design and partial implementation of a C++ command-line application for student record management. This project applies principles from <b>Information Management (ITS131)</b> and advanced <b>Data Structures (CSS130)</b> to create an efficient, terminal-based data solution.
+        A conceptual design and partial implementation of a C++ command-line application for student record management. This project applies principles from <b>Information Management (ITS131)</b> and advanced <b>Data Structures (CSS130)</b> to create an efficient, terminal-based data solution.
 
-</p>
+      </p>
 
-<code>C++</code> <code>Data Structures</code> <code>Information Management</code> <code>CLI</code> <code>System Design</code>
+      <code>C++</code> <code>Data Structures</code> <code>Information Management</code> <code>CLI</code> <code>System Design</code>
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 
 </table>
 
 
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width=25/> Tech Stack
+---
+
+
+
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width=25/> Tech Stack
+
+
 
 <table width="100%">
 
-<tr>
+  <tr>
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-<h3 align="center">Languages & Databases</h3>
+      <h3 align="center">Languages & Databases</h3>
 
-<p align="center">
+      <p align="center">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-<br/>
+        <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
-</p>
+      </p>
 
-</td>
+    </td>
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-<h3 align="center">Tools & Platforms</h3>
+      <h3 align="center">Tools & Platforms</h3>
 
-<p align="center">
+      <p align="center">
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 
-</p>
+      </p>
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 
 </table>
 
 
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width=25/> GitHub Stats & Trophies
+---
+
+
+
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width=25/> GitHub Stats & Trophies
+
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" alt="Andrew-Cadag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" alt="Andrew-Cadag's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Andrew-Cadag's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Andrew-Cadag's Top Languages" />
 
-<br/>
+  <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrew-cadag&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrew-cadag&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </p>
 
+
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Andrew-Cadag&color=00F6FF&style=for-the-badge" alt="Profile Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Andrew-Cadag&color=00F6FF&style=for-the-badge" alt="Profile Visitor Counter"/>
 
 </p>
