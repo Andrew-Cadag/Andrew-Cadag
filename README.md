@@ -1,48 +1,53 @@
 # 🚀 About Me
 
-I am a driven Information Technology student at Mapua University with a background in Computer Engineering. This unique journey has fueled my passion for the complete technology ecosystem—from hardware architecture to sophisticated software solutions. I thrive on using data analysis and a robust technical foundation to solve real-world challenges. My goal is to leverage my skills in software development, data analysis, and systems thinking to contribute to innovative projects in the tech industry.
+A solutions-oriented Information Technology student at Mapua University, bridging the gap between hardware fundamentals (from my Computer Engineering background) and high-level software development. I am passionate about leveraging data to uncover insights and building applications that solve real-world problems.
+
+I am actively seeking internship and entry-level roles where I can apply my skills in software engineering, data analysis, and systems architecture to contribute to impactful technology projects.
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Core Competencies
 
-My academic and project-based work has provided me with a strong foundation in the following areas:
+My experience and academic training have equipped me with a versatile skill set.
 
-* **Programming & Web Development:** C++, HTML5, CSS3, JavaScript, Website Design & Creation
-* **Databases & Information Management:** MySQL, SQLite, Database Management Principles
-* **Core IT Concepts:** Data Structures & Algorithms, Operating Systems, Computer Networks (Fundamentals 1 & 2), Computer Architecture, Information Systems, Hardware Troubleshooting
-* **Developer & Design Tools:** Git, GitHub, Figma, Canva, Postman, Microsoft Office Suite
-* **Soft Skills:** Leadership, Project Management, Team Collaboration, Research & Data Analysis, Public Speaking, Critical Thinking
-
----
-
-## 🔬 Research & Projects
-
-My curiosity extends to understanding the intersection of technology, data, and human behavior. These projects showcase my analytical and technical writing skills:
-
-* **A Comparative Study Between KDA of Losing Team and the Winning Team in Valorant:**
-    * Applied statistical analysis to in-game data to determine the correlation between performance metrics and match outcomes.
-* **The Effects of Google Chrome on Student Study Habits:**
-    * Conducted research to analyze how a primary technology tool impacts user productivity and academic performance.
-* **Analysis of Sleep Deprivation and Procrastination on Performance:**
-    * Investigated key behavioral factors that influence success, demonstrating an interest in data-driven human insights.
+* **Languages & Web:** C++, HTML5, CSS3, JavaScript
+* **Databases & Data:** MySQL, SQLite, Data Analysis, Database Management
+* **Tools & Platforms:** Git, GitHub, Figma, Postman, Canva, Notion
+* **Technical Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networking, Systems Architecture
+* **Professional Skills:** Leadership, Project Management, Agile Methodologies, Technical Writing, Critical Thinking, Team Collaboration
 
 ---
 
-## 🏆 Leadership & Collaboration
+## 📈 Projects & Analysis
 
-* **President | Basketball Organization**
-    * Led team development initiatives and facilitated all organizational meetings.
-    * Successfully planned and executed major events, including a faculty vs. student match, honing skills in project management and communication.
-* **Secretary | Mathematics Society**
-    * Managed organizational logistics, including attendance tracking and activity coordination.
-    * Designed and assigned tailored group activities to enhance team engagement and leverage individual strengths.
+I enjoy exploring the intersection of technology, data, and human behavior.
+
+* **Valorant Performance Analysis**
+    * Conducted a comparative statistical study on in-game metrics (KDA) to identify key performance indicators that correlate with match outcomes.
+    * ***Key Skills:*** *Statistical Analysis, Data Interpretation, Rationale-based Conclusion.*
+
+* **Impact of Technology on User Habits**
+    * Researched the effects of primary tools like Google Chrome on student productivity, demonstrating an ability to analyze the human-computer interaction loop.
+    * ***Key Skills:*** *Qualitative Research, User Behavior Analysis, Technical Writing.*
+
+---
+
+## 🏆 Leadership Experience
+
+* **President | University Basketball Organization**
+    * Spearheaded all organizational meetings and strategic planning for team development.
+    * Orchestrated a successful "Faculty vs. Student" event, managing logistics and communication to boost community engagement.
+
+* **Secretary | University Mathematics Society**
+    * Enhanced team cohesion and learning by designing and assigning tailored group activities based on member strengths.
+    * Managed all organizational records, including attendance and progress monitoring, ensuring smooth operations.
 
 ---
 
 ## 🎓 Education
 
-* **Bachelor of Science in Information Technology** | Mapua University
+* **Bachelor of Science in Information Technology** | Mapua University, Manila
+    * *Relevant Coursework: Data Structures & Algorithms, Web Systems, Information Management, Computer Networks*
 * **Senior High School, with Honors** | (Your Previous School)
 
 ## 🌐 Socials:
@@ -52,9 +57,9 @@ My curiosity extends to understanding the intersection of technology, data, and 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andrew-Cadag&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Andrew-Cadag&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cadag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Andrew-Cadag&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
