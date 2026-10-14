@@ -1,6 +1,6 @@
 # Ronald Andrew Cadag
 
-**Junior IT Administrator | BSIT Cybersecurity student (Mapúa University, graduating June 2027)**
+**Junior IT Administrator | BSIT Cybersecurity student (Mapúa University, graduating June 2027)**<br>
 Parañaque, Philippines · [LinkedIn](https://www.linkedin.com/in/andrew-cadag/) · [Email](mailto:andrewcadag2004@gmail.com) · [sanbedaeconomicssociety.org](https://sanbedaeconomicssociety.org)
 
 ---
@@ -26,7 +26,7 @@ I build and secure web applications. By day I administer a 50+ site client WordP
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**San Beda Economics Society website**](https://sanbedaeconomicssociety.org) | Live website for a university organization: design, animation, features, SEO and deployment. | HTML, CSS, JavaScript, WordPress |
-| [**Gentry Vault**](https://github.com/Andrew-Cadag/gentry-vault) | Inventory management system for a luxury watch business, with JWT login and role-based access. | React, Node.js, Express, MySQL |
+| [**Gentry Vault**](https://github.com/Andrew-Cadag/gentry-vault) | Inventory management system for a luxury watch business, with JWT login. | React, Node.js, Express, MySQL |
 | [**DriveEase**](https://github.com/Andrew-Cadag/carrental-clv-systems) | Car rental management system with an AI service that predicts Customer Lifetime Value. | React, Express, Python (Flask), MySQL |
 
 ---
@@ -38,7 +38,7 @@ I build and secure web applications. By day I administer a 50+ site client WordP
 | **Web development** | React, TypeScript, JavaScript, Node.js, Laravel, HTML5, CSS3 |
 | **Databases** | MySQL, SQLite |
 | **Hosting and deployment** | Cloudways, Cloudflare (DNS), staging to production releases |
-| **Security** | Wordfence, 2FA review, access control, vulnerability tracking, Wazuh (learning) |
+| **Security** | Wordfence, 2FA review, access control, vulnerability tracking |
 | **Tools** | Git, GitHub, Postman, Figma |
 
 ---
